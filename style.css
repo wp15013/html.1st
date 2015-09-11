@@ -116,5 +116,10 @@ li a:hover{
     text-decoration: none;
     border-bottom: solid 5px #00ccff;
 }
-
+.shadow {
+    margin-top: 0px; /* 画像の上の余白*/
+    display: inline-block; 
+    box-shadow: 10px 20px 20px -5px rgba(0, 0, 0, 0.8); 
+    /*横方向　下方向　ぼかし　広がり　色 */
+}
 

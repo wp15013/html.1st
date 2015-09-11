@@ -65,6 +65,8 @@ td{
     float: left;
     margin-right: 20px;
     margin-bottom: 50px;
+    box-shadow: 10px 20px 20px -5px rgba(0, 0, 0, 0.8);
+
 }
 /*
 ul{
@@ -128,4 +130,3 @@ li a:hover{
     box-shadow: 10px 20px 20px -5px rgba(0, 0, 0, 0.8); 
     /*横方向　下方向　ぼかし　広がり　色 */
 }
-

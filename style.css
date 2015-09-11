@@ -14,7 +14,12 @@ body {
 /*h1{
     zoom: 200%;
 }*/
-
+h1 img{
+    margin-top: 0px;
+    display: inline-block; 
+    box-shadow: 10px 20px 20px -5px rgba(0, 0, 0, 0.8); 
+    /*横方向　下方向　ぼかし　広がり　色 */
+}
 h2 {
     font-size:185%;
     border-left: 15px solid #668800;

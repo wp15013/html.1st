@@ -114,7 +114,8 @@ li a:visited{
 li a:hover{
     color: #000000;
     text-decoration: none;
-    border-bottom: solid 5px #00ccff;
+    /*border-bottom: solid 5px #00ccff;*/
+    background-color: #A16EFF;
 }
 .shadow {
     margin-top: 0px; /* 画像の上の余白*/
